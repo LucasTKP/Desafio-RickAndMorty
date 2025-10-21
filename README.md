@@ -76,7 +76,11 @@ Máximo 300 requisições/minuto. Reseta automaticamente a cada minuto.
 
 ## 🎥 Demonstração
 
-Assista ao vídeo de demonstração completa da aplicação:
+Assista ao vídeo de demonstração da aplicação:
+
+
+
+https://github.com/user-attachments/assets/158fa4d1-085d-4a54-a132-29d3d75b3a6b
 
 
 

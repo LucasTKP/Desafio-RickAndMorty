@@ -35,6 +35,7 @@ class CustomTheme {
     return AppBarTheme(
       backgroundColor: ThemeColors.primary,
       elevation: 0,
+      centerTitle:  true,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.vertical(
           bottom: Radius.circular(20),
